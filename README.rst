@@ -1,1 +1,1 @@
-Moved to https://github.com/TNTLFreiburg/braindecode!!
+Moved to https://github.com/TNTLFreiburg/braindecode!
